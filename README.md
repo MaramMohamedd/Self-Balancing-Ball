@@ -138,8 +138,8 @@ Before integrating everything, we tested the servo alone:
 | TRIG| GPIO 5|
 | ECHO|	GPIO 18 (via voltage divider)|
 --- 
-|Servo Motor	Connection|
-|-----------------------|
+|Servo Motor	Connection|ESP|
+|-----------------------|---|
 |**Red (Power)** | 5V bread board +ve rail (but to be safe use external power supply 5v)|
 |**Brown (GND)**	| GND (common with ESP32)|
 |**Orange (Signal)**	| GPIO 13|
