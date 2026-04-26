@@ -21,8 +21,8 @@ This project creates a mechanical platform where a ball rolls freely. An ultraso
 
 ##  Platform Specifications
 
-- **Holder length:** 23 cm
-- **Target position (setpoint):** 11.5 cm (center) feel free to adjust them
+- **Holder length:** 23 cm feel free to adjust them
+- **Target position (setpoint):** 11.5 cm (center) 
 - **Ball:** Any small, round object that rolls freely
 
 ## 🎯 How It Works
